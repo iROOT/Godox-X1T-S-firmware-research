@@ -1,0 +1,1 @@
+# Godox-X1T-S-firmware-research
